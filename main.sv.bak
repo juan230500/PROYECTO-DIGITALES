@@ -1,0 +1,25 @@
+module main(input clock_50,
+				output [7:0] red_out,
+				output [7:0] green_out,
+				output [7:0] blue_out,
+				output hsync,
+				output vsync,
+				output n_blank,
+				output vgaclock);
+				
+	
+	logic clock_25;
+	generate 
+		clock25mh clock(clock_50, clock_25);				
+		controlador_vga controlador(clock_25,
+						0,
+						red_out,
+						green_out,
+						blue_out,
+						hsync, 
+						vsync, 
+						n_blank);
+						
+		assign vgaclock = clock_25;
+	endgenerate
+endmodule 
