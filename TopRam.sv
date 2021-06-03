@@ -4,7 +4,7 @@ module TopRam(
 	input	[7:0] wraddress,
 	input wrclock,
 	input wren,
-	output char [0:10]);
+	output logic [0:7] char [0:10]);
 
 	logic	[7:0] q;
 	logic [7:0] rdaddress;
@@ -17,8 +17,7 @@ module TopRam(
 				wren,
 				q);
 				
-	Counter counter (rdclock, rst, 1'b1, rdaddress);
-	
+	Counter counter (rdclock, 1'b0, 1'b1, rdaddress);
 	always_ff@(posedge rdclock) begin
 		char[{rdaddress}] = q;
 	end					

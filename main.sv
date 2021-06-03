@@ -1,7 +1,6 @@
 module main(input clock_50,
 				input switch1,
 				input switch2,
-				input switch3,
 				output [7:0] red_out,
 				output [7:0] green_out,
 				output [7:0] blue_out,
@@ -15,6 +14,19 @@ module main(input clock_50,
 	logic [31:0] WriteData, DataAdr;
 	logic MemWrite;
 	generate 
+		top arm (clock_50, 
+				0,
+				switch1, 
+				switch2, 
+				WriteData, 
+				DataAdr, 
+				MemWrite);
+		TopRam TopRam (WriteData,
+				clock_25,
+				DataAdr,
+				clock_50,
+				MemWrite,
+				char);
 		clock25mh clock(clock_50, clock_25);				
 		controlador_vga controlador(clock_25,
 						0,
@@ -25,19 +37,6 @@ module main(input clock_50,
 						hsync, 
 						vsync, 
 						n_blank);
-		
-		top arm (clock_50, 
-					0, 
-					WriteData, 
-					DataAdr, 
-					MemWrite);
-					
-		TopRam TopRam (WriteData,
-				clock_25,
-				DataAdr,
-				clock_50,
-				MemWrite,
-				char);
 		assign vgaclock = clock_25;
 	endgenerate
 endmodule 
