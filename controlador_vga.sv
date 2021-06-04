@@ -1,6 +1,6 @@
 module controlador_vga(input clock_25,
 							  input reset,
-							  input [0:7] char [0:10],
+							  input [0:7] char [0:40],
 							  output [7:0] red,
 							  output [7:0] green,
 							  output [7:0] blue,

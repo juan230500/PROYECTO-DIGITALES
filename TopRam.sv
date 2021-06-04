@@ -5,9 +5,8 @@ module TopRam(
 	input	[7:0] wraddress,
 	input wrclock,
 	input wren,
-	output logic [0:7] char [0:10]);
+	output logic [0:7] char [0:40]);
 	
-	logic [31:0] i;
 	logic	[7:0] q;
 	logic [7:0] rdaddress;
 	RAM RAM (data,
