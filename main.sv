@@ -1,3 +1,4 @@
+`timescale 1ns/1ns
 module main(input clock_50,
 				input switch1,
 				input switch2,
@@ -7,22 +8,24 @@ module main(input clock_50,
 				output hsync,
 				output vsync,
 				output n_blank,
-				output vgaclock,
-				output logic [0:7] char [0:10]);
+				output vgaclock);
 	
-	//logic [0:7] char [0:10];
+	logic [0:7] char [0:10];
 	logic clock_25;
+	logic reset;
 	logic [31:0] WriteData, DataAdr;
 	logic MemWrite;
 	generate 
 		top arm (clock_50, 
-				0,
+				reset,
 				switch1, 
 				switch2, 
 				WriteData, 
 				DataAdr, 
 				MemWrite);
-		TopRam TopRam (WriteData,
+		TopRam TopRam (
+				reset,
+				WriteData,
 				clock_25,
 				DataAdr,
 				clock_50,
@@ -40,4 +43,8 @@ module main(input clock_50,
 						n_blank);
 		assign vgaclock = clock_25;
 	endgenerate
+	
+	initial begin
+		reset <= 1; # 10; reset <= 0;
+	end
 endmodule 

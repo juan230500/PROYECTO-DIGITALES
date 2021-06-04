@@ -11,7 +11,7 @@ cModel Technology
 Z0 dC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/simulation/modelsim
 vadder
 Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z2 !s110 1622793932
+Z2 !s110 1622799438
 !i10b 1
 !s100 TB^hnR53]ckCVRY8;@>QR0
 Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -28,7 +28,7 @@ Z6 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z7 !s108 1622793932.000000
+Z7 !s108 1622799438.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/adder.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/adder.sv|
 !i113 1
@@ -37,7 +37,7 @@ Z9 !s92 -sv -work work {+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De
 Z10 tCvgOpt 0
 vAdder_Substractor
 R1
-Z11 !s110 1622793931
+Z11 !s110 1622799437
 !i10b 1
 !s100 GJA2oh^BY0U0YF<[2UM:m0
 R3
@@ -54,7 +54,7 @@ R6
 r1
 !s85 0
 31
-Z12 !s108 1622793931.000000
+Z12 !s108 1622799436.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Adder_Substractor.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Adder_Substractor.sv|
 !i113 1
@@ -64,7 +64,7 @@ R10
 n@adder_@substractor
 vALU
 R1
-Z13 !s110 1622793934
+Z13 !s110 1622799439
 !i10b 1
 !s100 <dmMGzMGKV]Th^lobZ9ib0
 R3
@@ -81,7 +81,7 @@ R6
 r1
 !s85 0
 31
-Z14 !s108 1622793934.000000
+Z14 !s108 1622799439.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ALU.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ALU.sv|
 !i113 1
@@ -91,7 +91,7 @@ R10
 n@a@l@u
 vand_modulo
 R1
-Z15 !s110 1622793930
+Z15 !s110 1622799435
 !i10b 1
 !s100 HloEe;RhR0:fZEC6DfCj61
 R3
@@ -108,7 +108,7 @@ R6
 r1
 !s85 0
 31
-Z18 !s108 1622793930.000000
+Z18 !s108 1622799435.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/and_modulo.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/and_modulo.sv|
 !i113 1
@@ -117,7 +117,7 @@ R9
 R10
 varm
 R1
-Z19 !s110 1622793935
+Z19 !s110 1622799440
 !i10b 1
 !s100 4[[Zod_JmVEk]5Wa[3Bcc0
 R3
@@ -134,7 +134,7 @@ R6
 r1
 !s85 0
 31
-Z21 !s108 1622793935.000000
+Z21 !s108 1622799440.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/arm.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/arm.sv|
 !i113 1
@@ -143,7 +143,7 @@ R9
 R10
 vasciiwriter
 R1
-Z22 !s110 1622793936
+Z22 !s110 1622799441
 !i10b 1
 !s100 ?0BnT:Sn38K4G@zIL>gM=2
 R3
@@ -160,7 +160,7 @@ R6
 r1
 !s85 0
 31
-Z24 !s108 1622793936.000000
+Z24 !s108 1622799441.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/asciiwriter.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/asciiwriter.sv|
 !i113 1
@@ -169,7 +169,7 @@ R9
 R10
 vclock25mh
 R1
-Z25 !s110 1622793927
+Z25 !s110 1622799433
 !i10b 1
 !s100 `2Z2DEAzSXoUCV9jLdOO41
 R3
@@ -186,7 +186,7 @@ R6
 r1
 !s85 0
 31
-Z27 !s108 1622793927.000000
+Z27 !s108 1622799433.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv|
 !i113 1
@@ -195,7 +195,7 @@ R9
 R10
 vcomparador_igual
 R1
-Z28 !s110 1622793928
+Z28 !s110 1622799434
 !i10b 1
 !s100 glk<bb@z8^IX62hL3dL3K1
 R3
@@ -212,7 +212,7 @@ R6
 r1
 !s85 0
 31
-Z29 !s108 1622793928.000000
+Z29 !s108 1622799434.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_igual.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_igual.sv|
 !i113 1
@@ -221,7 +221,7 @@ R9
 R10
 vcomparador_mayor
 R1
-Z30 !s110 1622793929
+R28
 !i10b 1
 !s100 DGi6J_@Ye]KA[6M?L[:W]3
 R3
@@ -247,7 +247,7 @@ R9
 R10
 vComplement
 R1
-R2
+R11
 !i10b 1
 !s100 f>Hl?zeDP_SK<IbS?RK]g3
 R3
@@ -264,7 +264,7 @@ R6
 r1
 !s85 0
 31
-R12
+Z30 !s108 1622799437.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Complement.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Complement.sv|
 !i113 1
@@ -343,7 +343,7 @@ R6
 r1
 !s85 0
 31
-R29
+R27
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_horizontal.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_horizontal.sv|
 !i113 1
@@ -352,7 +352,7 @@ R9
 R10
 vcontador_parametrizable
 R1
-R30
+R28
 !i10b 1
 !s100 6W^LNPn2:O0kKz@SVe4iQ2
 R3
@@ -369,7 +369,7 @@ R6
 r1
 !s85 0
 31
-Z36 !s108 1622793929.000000
+R29
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_parametrizable.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_parametrizable.sv|
 !i113 1
@@ -378,7 +378,7 @@ R9
 R10
 vcontador_vertical
 R1
-R28
+R25
 !i10b 1
 !s100 H2HcKaH6ZMATG[RPe6kgM0
 R3
@@ -395,7 +395,7 @@ R6
 r1
 !s85 0
 31
-R29
+R27
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_vertical.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_vertical.sv|
 !i113 1
@@ -430,7 +430,7 @@ R9
 R10
 vcontroller
 R1
-R13
+R19
 !i10b 1
 !s100 cFb=P@1B49e;m^UjnXW5I0
 R3
@@ -447,7 +447,7 @@ R6
 r1
 !s85 0
 31
-R14
+R21
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controller.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controller.sv|
 !i113 1
@@ -483,7 +483,7 @@ R10
 n@counter
 vdatapath
 R1
-Z37 !s110 1622793933
+R13
 !i10b 1
 !s100 9j_`IUecUgdNeHl8DMQ3R2
 R3
@@ -500,7 +500,7 @@ R6
 r1
 !s85 0
 31
-Z38 !s108 1622793933.000000
+R14
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/datapath.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/datapath.sv|
 !i113 1
@@ -509,7 +509,7 @@ R9
 R10
 vdecoder
 R1
-R13
+R19
 !i10b 1
 !s100 EJeNa?RTG@WY4P^8HlOX:0
 R3
@@ -517,7 +517,7 @@ ITJVQ4U3IJYk9BYC^hU<BP2
 R4
 S1
 R0
-Z39 w1622786797
+Z36 w1622786797
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv
 !i122 31
@@ -535,7 +535,7 @@ R9
 R10
 vdivisor
 R1
-R11
+Z37 !s110 1622799436
 !i10b 1
 !s100 m0d3X_KRY796oi6VlB5gB0
 R3
@@ -561,15 +561,15 @@ R9
 R10
 vdmem
 R1
-R19
+R22
 !i10b 1
-!s100 H83n3YGAUTz8NVejZ[d7E0
+!s100 1z`@8H2ljljb]JDm]8fA@0
 R3
-Ini7UGJKi>=8LiU3Q5ZU:j0
+IkVBK@B5NoB^[3GMPijSo;0
 R4
 S1
 R0
-w1622792793
+w1622799427
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv
 !i122 35
@@ -578,7 +578,7 @@ R6
 r1
 !s85 0
 31
-R21
+R24
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv|
 !i113 1
@@ -587,7 +587,7 @@ R9
 R10
 vextend
 R1
-R37
+R2
 !i10b 1
 !s100 =<6N6]ACE]M=eVhhdG4Vc2
 R3
@@ -604,7 +604,7 @@ R6
 r1
 !s85 0
 31
-R38
+R7
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/extend.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/extend.sv|
 !i113 1
@@ -613,7 +613,7 @@ R9
 R10
 vflopenr
 R1
-R37
+R2
 !i10b 1
 !s100 08S?imBWU55^Kf6:5EcP01
 R3
@@ -651,7 +651,7 @@ R5
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopr.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopr.sv
 !i122 23
-Z40 L0 1 8
+Z38 L0 1 8
 R6
 r1
 !s85 0
@@ -682,7 +682,7 @@ R6
 r1
 !s85 0
 31
-R12
+R30
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/FullAdder.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/FullAdder.sv|
 !i113 1
@@ -692,7 +692,7 @@ R10
 n@full@adder
 vimem
 R1
-R22
+Z39 !s110 1622799442
 !i10b 1
 !s100 omo[MA0<_kE94kJd69@Lh1
 R3
@@ -718,24 +718,24 @@ R9
 R10
 vmain
 R1
-R25
+Z40 !s110 1622799432
 !i10b 1
-!s100 S[O;1NdSFQ8CoAH3LdFJ02
+!s100 IQET`=:nijR^@LkA2mPi52
 R3
-I8fT[_RI_N3YjQkh7?hcaA0
+I:z@;zESm;bOE69YVPL8Ea0
 R4
 S1
 R0
-w1622793163
+w1622798751
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv
 !i122 2
-L0 1 43
+L0 2 49
 R6
 r1
 !s85 0
 31
-R27
+Z41 !s108 1622799432.000000
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv|
 !i113 1
@@ -770,7 +770,7 @@ R9
 R10
 vmultiplicador
 R1
-R30
+R15
 !i10b 1
 !s100 Memdh_W8PXCS3z63[Gkbl2
 R3
@@ -782,12 +782,12 @@ R16
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv
 !i122 12
-Z41 L0 1 17
+Z42 L0 1 17
 R6
 r1
 !s85 0
 31
-R36
+R18
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv|
 !i113 1
@@ -796,7 +796,7 @@ R9
 R10
 vmux2
 R1
-R2
+R11
 !i10b 1
 !s100 chEUMf29dLm;hkSPWAcdA0
 R3
@@ -808,12 +808,12 @@ R5
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv
 !i122 22
-R40
+R38
 R6
 r1
 !s85 0
 31
-R7
+R30
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv|
 !i113 1
@@ -822,7 +822,7 @@ R9
 R10
 vor_modulo
 R1
-R30
+R15
 !i10b 1
 !s100 4:2X44gC[ee][HQohkT>a1
 R3
@@ -839,7 +839,7 @@ R6
 r1
 !s85 0
 31
-R36
+R29
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/or_modulo.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/or_modulo.sv|
 !i113 1
@@ -847,7 +847,7 @@ R8
 R9
 R10
 vRAM
-R25
+R40
 !i10b 1
 !s100 2S8zdmR`_[?gNl8Dl2NHf0
 R3
@@ -863,7 +863,7 @@ R6
 r1
 !s85 0
 31
-Z42 !s108 1622793926.000000
+R41
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v|
 !i113 1
@@ -873,7 +873,7 @@ R10
 n@r@a@m
 vregfile
 R1
-R37
+R13
 !i10b 1
 !s100 YFCDfPX_ed7;dm?8?f6Ee3
 R3
@@ -881,16 +881,16 @@ IXKd7Yjnl=b=@c;VjBbLm=0
 R4
 S1
 R0
-R39
+R36
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv
 !i122 27
-R41
+R42
 R6
 r1
 !s85 0
 31
-R38
+R7
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv|
 !i113 1
@@ -898,7 +898,7 @@ R8
 R9
 R10
 vROM
-!s110 1622793926
+R40
 !i10b 1
 !s100 T=><E[HSonOg[jT9<e<^O0
 R3
@@ -914,7 +914,7 @@ R6
 r1
 !s85 0
 31
-R42
+R41
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v|
 !i113 1
@@ -924,7 +924,7 @@ R10
 n@r@o@m
 vshiftL_modulo
 R1
-R11
+R37
 !i10b 1
 !s100 DFjWn`TY:ZBCDS`S^CQ4o1
 R3
@@ -941,7 +941,7 @@ R6
 r1
 !s85 0
 31
-R18
+R12
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftL_modulo.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftL_modulo.sv|
 !i113 1
@@ -951,7 +951,7 @@ R10
 nshift@l_modulo
 vshiftR_modulo
 R1
-R15
+R37
 !i10b 1
 !s100 jDmBeb6=;BT>V=E2MhT`i0
 R3
@@ -968,7 +968,7 @@ R6
 r1
 !s85 0
 31
-R18
+R12
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftR_modulo.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftR_modulo.sv|
 !i113 1
@@ -978,7 +978,7 @@ R10
 nshift@r_modulo
 vsincronizador
 R1
-R28
+R25
 !i10b 1
 !s100 ko^YjWdXSf65H0[T[`7;L1
 R3
@@ -1002,28 +1002,28 @@ R27
 R8
 R9
 R10
-vtest_main
+vtestbench
 R1
-!s110 1622793937
+R39
 !i10b 1
-!s100 zc^CPoaoI@ID:>LXnDb]B2
+!s100 daIkX>9=:j7G<5OB^7MLk0
 R3
-IM_R`3TdYJbh=3Gb<2[4f@2
+IiPfnZm28HREKF:@`f_he<0
 R4
 S1
 R0
-w1622793226
-8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv
-FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv
+w1622795848
+8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/testbench.sv
+FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/testbench.sv
 !i122 40
-L0 2 76
+L0 2 18
 R6
 r1
 !s85 0
 31
-R24
-!s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv|
-!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv|
+!s108 1622799442.000000
+!s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/testbench.sv|
 !i113 1
 R8
 R9
@@ -1038,7 +1038,7 @@ IDoA];GdKl0nQLM1cPhQgC3
 R4
 S1
 R0
-R23
+w1622796072
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/top.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/top.sv
 !i122 34
@@ -1058,13 +1058,13 @@ vTopRam
 R1
 R22
 !i10b 1
-!s100 NQD^FlT9a@`:9Uj<E9>2]3
+!s100 K0U_UeA1_Hj8XH_N:jFPz2
 R3
-IYK?F1g5[fM=YTTHj5gSd>1
+I8DV6X0ZKA;gSHD<Y@AiIL2
 R4
 S1
 R0
-w1622793918
+w1622798721
 8C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv
 FC:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv
 !i122 36
@@ -1073,7 +1073,7 @@ R6
 r1
 !s85 0
 31
-R21
+R24
 !s107 C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES|C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv|
 !i113 1
@@ -1083,7 +1083,7 @@ R10
 n@top@ram
 vxor_modulo
 R1
-R15
+R37
 !i10b 1
 !s100 e_9J3Sm8odXFENb^hEoPD3
 R3

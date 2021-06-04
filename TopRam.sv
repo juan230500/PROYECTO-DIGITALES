@@ -1,14 +1,15 @@
 module TopRam(
+	input reset,
 	input	[7:0] data,
 	input rdclock,
 	input	[7:0] wraddress,
 	input wrclock,
 	input wren,
 	output logic [0:7] char [0:10]);
-
+	
+	logic [31:0] i;
 	logic	[7:0] q;
 	logic [7:0] rdaddress;
-	
 	RAM RAM (data,
 				rdaddress,
 				rdclock,
@@ -17,10 +18,9 @@ module TopRam(
 				wren,
 				q);
 				
-	Counter counter (rdclock, 1'b0, 1'b1, rdaddress);
-	always_ff@(posedge rdclock) begin
+	Counter counter (rdclock, reset, 1'b1, rdaddress);
+	always@(posedge rdclock) begin
 		char[{rdaddress}] = q;
-	end					
-	always @(wren)
-		$display("%d",  wren);
+	end				
+	
 endmodule 
