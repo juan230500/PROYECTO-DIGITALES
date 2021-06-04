@@ -3,7 +3,7 @@ module dmem(input logic clk, switch1, switch2,
 		output logic [31:0] rd);
 	//logic [31:0] RAM[63:0];
 	//logic [31:0] rd_aux;
-	ROM memoria (a, clk, rd);
+	ROM memoria (a, ~clk, rd);
 //	always_comb begin
 //		rd = 0;
 //		case(a)

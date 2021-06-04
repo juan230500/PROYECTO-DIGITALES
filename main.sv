@@ -7,9 +7,10 @@ module main(input clock_50,
 				output hsync,
 				output vsync,
 				output n_blank,
-				output vgaclock);
+				output vgaclock,
+				output logic [0:7] char [0:10]);
 	
-	logic [0:7] char [0:10];
+	//logic [0:7] char [0:10];
 	logic clock_25;
 	logic [31:0] WriteData, DataAdr;
 	logic MemWrite;

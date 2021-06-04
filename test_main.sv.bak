@@ -1,4 +1,3 @@
-`timescale 1ns/1ns
 module test_main();
 	logic clock_50;
 	logic reset;
@@ -17,8 +16,8 @@ module test_main();
 	integer R;
 	integer G;
 	integer B;
-	logic [0:7] char [0:10];
-	main test( clock_50, 1'b0, 1'b0, red_out, green_out, blue_out, hsync, vsync, n_blank, vgaclock, char);
+
+	main test( clock_50, red_out, green_out, blue_out, hsync, vsync, n_blank, vgaclock);
 	initial begin
 		reset = 0;
 		R = $fopen("C://Users//alfab//Google Drive//I-SEM 2021//Taller De Diseno Digital//Proyecto//R_test.txt");

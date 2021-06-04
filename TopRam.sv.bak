@@ -21,6 +21,4 @@ module TopRam(
 	always_ff@(posedge rdclock) begin
 		char[{rdaddress}] = q;
 	end					
-	always @(wren)
-		$display("%d",  wren);
 endmodule 
