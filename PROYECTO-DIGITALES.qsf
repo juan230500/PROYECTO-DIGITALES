@@ -39,7 +39,7 @@
 
 set_global_assignment -name FAMILY "Cyclone V"
 set_global_assignment -name DEVICE 5CGXFC7C7F23C8
-set_global_assignment -name TOP_LEVEL_ENTITY OR_GATE
+set_global_assignment -name TOP_LEVEL_ENTITY main
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 20.1.1
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "09:49:12  JUNE 03, 2021"
 set_global_assignment -name LAST_QUARTUS_VERSION "20.1.1 Lite Edition"
@@ -54,9 +54,74 @@ set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_symbol
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_signal_integrity
 set_global_assignment -name EDA_GENERATE_FUNCTIONAL_NETLIST OFF -section_id eda_board_design_boundary_scan
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name EDA_TEST_BENCH_ENABLE_STATUS TEST_BENCH_MODE -section_id eda_simulation
+set_global_assignment -name EDA_NATIVELINK_SIMULATION_TEST_BENCH test_main -section_id eda_simulation
+set_global_assignment -name EDA_TEST_BENCH_NAME testbench -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id testbench
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME testbench -section_id testbench
+set_global_assignment -name EDA_TEST_BENCH_NAME arm_test -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id arm_test
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME arm_test -section_id arm_test
+set_global_assignment -name MIF_FILE ROM.mif
+set_global_assignment -name SYSTEMVERILOG_FILE text_img.sv
+set_global_assignment -name SYSTEMVERILOG_FILE test_main.sv
+set_global_assignment -name SYSTEMVERILOG_FILE main.sv
+set_global_assignment -name SYSTEMVERILOG_FILE controlador_vga.sv
+set_global_assignment -name SYSTEMVERILOG_FILE asciiwriter.sv
+set_global_assignment -name SYSTEMVERILOG_FILE clock25mh.sv
+set_global_assignment -name SYSTEMVERILOG_FILE sincronizador.sv
+set_global_assignment -name SYSTEMVERILOG_FILE contador_vertical.sv
+set_global_assignment -name SYSTEMVERILOG_FILE contador_horizontal.sv
+set_global_assignment -name SYSTEMVERILOG_FILE controlador_vertical.sv
+set_global_assignment -name SYSTEMVERILOG_FILE controlador_horizontal.sv
+set_global_assignment -name SYSTEMVERILOG_FILE comparador_igual.sv
+set_global_assignment -name SYSTEMVERILOG_FILE comparador.sv
+set_global_assignment -name SYSTEMVERILOG_FILE comparador_mayor.sv
+set_global_assignment -name SYSTEMVERILOG_FILE contador_parametrizable.sv
+set_global_assignment -name SYSTEMVERILOG_FILE testbench.sv
+set_global_assignment -name SYSTEMVERILOG_FILE or_modulo.sv
+set_global_assignment -name SYSTEMVERILOG_FILE multiplicador.sv
+set_global_assignment -name SYSTEMVERILOG_FILE modulo.sv
+set_global_assignment -name SYSTEMVERILOG_FILE and_modulo.sv
+set_global_assignment -name SYSTEMVERILOG_FILE xor_modulo.sv
+set_global_assignment -name SYSTEMVERILOG_FILE shiftR_modulo.sv
+set_global_assignment -name SYSTEMVERILOG_FILE shiftL_modulo.sv
+set_global_assignment -name SYSTEMVERILOG_FILE divisor.sv
+set_global_assignment -name SYSTEMVERILOG_FILE Adder_Substractor.sv
+set_global_assignment -name SYSTEMVERILOG_FILE FullAdder.sv
+set_global_assignment -name SYSTEMVERILOG_FILE Complement.sv
 set_global_assignment -name SYSTEMVERILOG_FILE AND_GATE.sv
 set_global_assignment -name SYSTEMVERILOG_FILE OR_GATE.sv
+set_global_assignment -name SYSTEMVERILOG_FILE mux2.sv
+set_global_assignment -name SYSTEMVERILOG_FILE flopr.sv
+set_global_assignment -name SYSTEMVERILOG_FILE adder.sv
+set_global_assignment -name SYSTEMVERILOG_FILE flopenr.sv
+set_global_assignment -name SYSTEMVERILOG_FILE extend.sv
+set_global_assignment -name SYSTEMVERILOG_FILE regfile.sv
+set_global_assignment -name SYSTEMVERILOG_FILE datapath.sv
+set_global_assignment -name SYSTEMVERILOG_FILE ALU.sv
+set_global_assignment -name SYSTEMVERILOG_FILE condlogic.sv
+set_global_assignment -name SYSTEMVERILOG_FILE decoder.sv
+set_global_assignment -name SYSTEMVERILOG_FILE controller.sv
+set_global_assignment -name SYSTEMVERILOG_FILE arm.sv
+set_global_assignment -name SYSTEMVERILOG_FILE top.sv
+set_global_assignment -name SYSTEMVERILOG_FILE dmem.sv
+set_global_assignment -name SYSTEMVERILOG_FILE imem.sv
+set_global_assignment -name LICENSE_FILE memfile.dat
+set_global_assignment -name SYSTEMVERILOG_FILE arm_test.sv
+set_global_assignment -name SYSTEMVERILOG_FILE TopRam.sv
+set_global_assignment -name SYSTEMVERILOG_FILE Counter.sv
 set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
 set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
 set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name QIP_FILE ROM.qip
+set_global_assignment -name QIP_FILE RAM.qip
+set_global_assignment -name EDA_TEST_BENCH_NAME test_main -section_id eda_simulation
+set_global_assignment -name EDA_DESIGN_INSTANCE_NAME NA -section_id test_main
+set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME test_main -section_id test_main
+set_global_assignment -name EDA_TEST_BENCH_FILE testbench.sv -section_id testbench
+set_global_assignment -name EDA_TEST_BENCH_FILE arm_test.sv -section_id arm_test
+set_global_assignment -name EDA_TEST_BENCH_FILE test_main.sv -section_id test_main
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

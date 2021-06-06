@@ -1,5 +1,7 @@
 	
-module AND_GATE #(parameter WIDTH = 8)(
+
+// comparator2BitWithVHDL.v
+module AND_GATE(
     input logic a, b,
     output logic c
 );
