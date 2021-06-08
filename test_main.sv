@@ -17,7 +17,7 @@ module test_main();
 	integer R;
 	integer G;
 	integer B;
-	main test( clock_50, 1'b0, 1'b0, red_out, green_out, blue_out, hsync, vsync, n_blank, vgaclock);
+	main test( clock_50, 1'b0, 1'b0, 1'b0, red_out, green_out, blue_out, hsync, vsync, n_blank, vgaclock);
 	initial begin
 		reset = 0;
 		R = $fopen("C://Users//alfab//Google Drive//I-SEM 2021//Taller De Diseno Digital//Proyecto//R_test.txt");

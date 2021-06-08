@@ -12,422 +12,422 @@
 # 
 # vlog -vlog01compat -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:51 on Jun 08,2021
+# Start time: 15:42:02 on Jun 08,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v 
 # -- Compiling module ROM
 # 
 # Top level modules:
 # 	ROM
-# End time: 15:40:51 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:02 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:51 on Jun 08,2021
+# Start time: 15:42:02 on Jun 08,2021
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v 
 # -- Compiling module RAM
 # 
 # Top level modules:
 # 	RAM
-# End time: 15:40:51 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:02 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:51 on Jun 08,2021
+# Start time: 15:42:02 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv 
 # -- Compiling module main
 # 
 # Top level modules:
 # 	main
-# End time: 15:40:51 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:02 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controlador_vga.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:52 on Jun 08,2021
+# Start time: 15:42:02 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controlador_vga.sv 
 # -- Compiling module controlador_vga
 # 
 # Top level modules:
 # 	controlador_vga
-# End time: 15:40:52 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:02 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:52 on Jun 08,2021
+# Start time: 15:42:02 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv 
 # -- Compiling module clock25mh
 # 
 # Top level modules:
 # 	clock25mh
-# End time: 15:40:52 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:02 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/sincronizador.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:52 on Jun 08,2021
+# Start time: 15:42:02 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/sincronizador.sv 
 # -- Compiling module sincronizador
 # 
 # Top level modules:
 # 	sincronizador
-# End time: 15:40:52 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:03 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_vertical.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:52 on Jun 08,2021
+# Start time: 15:42:03 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_vertical.sv 
 # -- Compiling module contador_vertical
 # 
 # Top level modules:
 # 	contador_vertical
-# End time: 15:40:52 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:03 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_horizontal.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:52 on Jun 08,2021
+# Start time: 15:42:03 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_horizontal.sv 
 # -- Compiling module contador_horizontal
 # 
 # Top level modules:
 # 	contador_horizontal
-# End time: 15:40:52 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:03 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_igual.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:53 on Jun 08,2021
+# Start time: 15:42:03 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_igual.sv 
 # -- Compiling module comparador_igual
 # 
 # Top level modules:
 # 	comparador_igual
-# End time: 15:40:53 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:03 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_mayor.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:53 on Jun 08,2021
+# Start time: 15:42:03 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_mayor.sv 
 # -- Compiling module comparador_mayor
 # 
 # Top level modules:
 # 	comparador_mayor
-# End time: 15:40:53 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:03 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_parametrizable.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:53 on Jun 08,2021
+# Start time: 15:42:03 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_parametrizable.sv 
 # -- Compiling module contador_parametrizable
 # 
 # Top level modules:
 # 	contador_parametrizable
-# End time: 15:40:53 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:04 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/or_modulo.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:53 on Jun 08,2021
+# Start time: 15:42:04 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/or_modulo.sv 
 # -- Compiling module or_modulo
 # 
 # Top level modules:
 # 	or_modulo
-# End time: 15:40:53 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:04 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:53 on Jun 08,2021
+# Start time: 15:42:04 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv 
 # -- Compiling module multiplicador
 # 
 # Top level modules:
 # 	multiplicador
-# End time: 15:40:53 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:04 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/modulo.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:53 on Jun 08,2021
+# Start time: 15:42:04 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/modulo.sv 
 # -- Compiling module modulo
 # 
 # Top level modules:
 # 	modulo
-# End time: 15:40:54 on Jun 08,2021, Elapsed time: 0:00:01
+# End time: 15:42:04 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/and_modulo.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:54 on Jun 08,2021
+# Start time: 15:42:04 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/and_modulo.sv 
 # -- Compiling module and_modulo
 # 
 # Top level modules:
 # 	and_modulo
-# End time: 15:40:54 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:04 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/xor_modulo.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:54 on Jun 08,2021
+# Start time: 15:42:04 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/xor_modulo.sv 
 # -- Compiling module xor_modulo
 # 
 # Top level modules:
 # 	xor_modulo
-# End time: 15:40:54 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:05 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftR_modulo.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:54 on Jun 08,2021
+# Start time: 15:42:05 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftR_modulo.sv 
 # -- Compiling module shiftR_modulo
 # 
 # Top level modules:
 # 	shiftR_modulo
-# End time: 15:40:54 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:05 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftL_modulo.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:54 on Jun 08,2021
+# Start time: 15:42:05 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftL_modulo.sv 
 # -- Compiling module shiftL_modulo
 # 
 # Top level modules:
 # 	shiftL_modulo
-# End time: 15:40:54 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:05 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/divisor.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:54 on Jun 08,2021
+# Start time: 15:42:05 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/divisor.sv 
 # -- Compiling module divisor
 # ** Warning: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/divisor.sv(13): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
 # 
 # Top level modules:
 # 	divisor
-# End time: 15:40:55 on Jun 08,2021, Elapsed time: 0:00:01
+# End time: 15:42:05 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Adder_Substractor.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:55 on Jun 08,2021
+# Start time: 15:42:05 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Adder_Substractor.sv 
 # -- Compiling module Adder_Substractor
 # 
 # Top level modules:
 # 	Adder_Substractor
-# End time: 15:40:55 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:05 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/FullAdder.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:55 on Jun 08,2021
+# Start time: 15:42:05 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/FullAdder.sv 
 # -- Compiling module FullAdder
 # 
 # Top level modules:
 # 	FullAdder
-# End time: 15:40:55 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:05 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Complement.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:55 on Jun 08,2021
+# Start time: 15:42:06 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Complement.sv 
 # -- Compiling module Complement
 # 
 # Top level modules:
 # 	Complement
-# End time: 15:40:55 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:06 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:56 on Jun 08,2021
+# Start time: 15:42:06 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv 
 # -- Compiling module mux2
 # 
 # Top level modules:
 # 	mux2
-# End time: 15:40:56 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:06 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopr.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:56 on Jun 08,2021
+# Start time: 15:42:06 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopr.sv 
 # -- Compiling module flopr
 # 
 # Top level modules:
 # 	flopr
-# End time: 15:40:56 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:06 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/adder.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:56 on Jun 08,2021
+# Start time: 15:42:06 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/adder.sv 
 # -- Compiling module adder
 # 
 # Top level modules:
 # 	adder
-# End time: 15:40:56 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:07 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopenr.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:57 on Jun 08,2021
+# Start time: 15:42:07 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopenr.sv 
 # -- Compiling module flopenr
 # 
 # Top level modules:
 # 	flopenr
-# End time: 15:40:57 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:07 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/extend.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:57 on Jun 08,2021
+# Start time: 15:42:07 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/extend.sv 
 # -- Compiling module extend
 # 
 # Top level modules:
 # 	extend
-# End time: 15:40:57 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:07 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:57 on Jun 08,2021
+# Start time: 15:42:07 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv 
 # -- Compiling module regfile
 # 
 # Top level modules:
 # 	regfile
-# End time: 15:40:57 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:08 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/datapath.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:58 on Jun 08,2021
+# Start time: 15:42:08 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/datapath.sv 
 # -- Compiling module datapath
 # 
 # Top level modules:
 # 	datapath
-# End time: 15:40:58 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:08 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ALU.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:58 on Jun 08,2021
+# Start time: 15:42:08 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ALU.sv 
 # -- Compiling module ALU
 # 
 # Top level modules:
 # 	ALU
-# End time: 15:40:58 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:08 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/condlogic.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:58 on Jun 08,2021
+# Start time: 15:42:08 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/condlogic.sv 
 # -- Compiling module condlogic
 # -- Compiling module condcheck
 # 
 # Top level modules:
 # 	condlogic
-# End time: 15:40:59 on Jun 08,2021, Elapsed time: 0:00:01
+# End time: 15:42:09 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:59 on Jun 08,2021
+# Start time: 15:42:09 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv 
 # -- Compiling module decoder
 # ** Warning: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv(46): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
 # 
 # Top level modules:
 # 	decoder
-# End time: 15:40:59 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:09 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 1
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controller.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:59 on Jun 08,2021
+# Start time: 15:42:09 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controller.sv 
 # -- Compiling module controller
 # 
 # Top level modules:
 # 	controller
-# End time: 15:40:59 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:09 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/arm.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:40:59 on Jun 08,2021
+# Start time: 15:42:09 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/arm.sv 
 # -- Compiling module arm
 # 
 # Top level modules:
 # 	arm
-# End time: 15:41:00 on Jun 08,2021, Elapsed time: 0:00:01
+# End time: 15:42:10 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/top.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:41:00 on Jun 08,2021
+# Start time: 15:42:10 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/top.sv 
 # -- Compiling module top
 # 
 # Top level modules:
 # 	top
-# End time: 15:41:00 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:10 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:41:00 on Jun 08,2021
+# Start time: 15:42:10 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv 
 # -- Compiling module dmem
 # 
 # Top level modules:
 # 	dmem
-# End time: 15:41:00 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:10 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:41:00 on Jun 08,2021
+# Start time: 15:42:10 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv 
 # -- Compiling module TopRam
 # 
 # Top level modules:
 # 	TopRam
-# End time: 15:41:01 on Jun 08,2021, Elapsed time: 0:00:01
+# End time: 15:42:11 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Counter.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:41:01 on Jun 08,2021
+# Start time: 15:42:11 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Counter.sv 
 # -- Compiling module Counter
 # 
 # Top level modules:
 # 	Counter
-# End time: 15:41:01 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:11 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/asciiwriter.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:41:01 on Jun 08,2021
+# Start time: 15:42:11 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/asciiwriter.sv 
 # -- Compiling module asciiwriter
 # 
 # Top level modules:
 # 	asciiwriter
-# End time: 15:41:01 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:11 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/imem.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:41:01 on Jun 08,2021
+# Start time: 15:42:11 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/imem.sv 
 # -- Compiling module imem
 # 
 # Top level modules:
 # 	imem
-# End time: 15:41:02 on Jun 08,2021, Elapsed time: 0:00:01
+# End time: 15:42:12 on Jun 08,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:41:02 on Jun 08,2021
+# Start time: 15:42:12 on Jun 08,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv 
 # -- Compiling module test_main
 # 
 # Top level modules:
 # 	test_main
-# End time: 15:41:02 on Jun 08,2021, Elapsed time: 0:00:00
+# End time: 15:42:12 on Jun 08,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  test_main
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" test_main 
-# Start time: 15:41:02 on Jun 08,2021
+# Start time: 15:42:12 on Jun 08,2021
 # Loading sv_std.std
 # Loading work.test_main
 # Loading work.main
@@ -500,11 +500,522 @@
 # add wave *
 # ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
 #           File in use by: alfab  Hostname: LAPTOP-NFRQC5UB  ProcessID: 38832
-#           Attempting to use alternate WLF file "./wlftby9b7e".
+#           Attempting to use alternate WLF file "./wlftvma3ht".
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftby9b7e
+#           Using alternate file: ./wlftvma3ht
 # view structure
 # .main_pane.structure.interior.cs.body.struct
 # view signals
 # .main_pane.objects.interior.cs.body.tree
 # run -all
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+do PROYECTO-DIGITALES_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:11 on Jun 08,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v 
+# -- Compiling module ROM
+# 
+# Top level modules:
+# 	ROM
+# End time: 15:48:11 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:11 on Jun 08,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v 
+# -- Compiling module RAM
+# 
+# Top level modules:
+# 	RAM
+# End time: 15:48:11 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:11 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv 
+# -- Compiling module main
+# 
+# Top level modules:
+# 	main
+# End time: 15:48:11 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controlador_vga.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:11 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controlador_vga.sv 
+# -- Compiling module controlador_vga
+# 
+# Top level modules:
+# 	controlador_vga
+# End time: 15:48:12 on Jun 08,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:12 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv 
+# -- Compiling module clock25mh
+# 
+# Top level modules:
+# 	clock25mh
+# End time: 15:48:12 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/sincronizador.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:12 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/sincronizador.sv 
+# -- Compiling module sincronizador
+# 
+# Top level modules:
+# 	sincronizador
+# End time: 15:48:12 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_vertical.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:12 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_vertical.sv 
+# -- Compiling module contador_vertical
+# 
+# Top level modules:
+# 	contador_vertical
+# End time: 15:48:12 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_horizontal.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:12 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_horizontal.sv 
+# -- Compiling module contador_horizontal
+# 
+# Top level modules:
+# 	contador_horizontal
+# End time: 15:48:12 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_igual.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:12 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_igual.sv 
+# -- Compiling module comparador_igual
+# 
+# Top level modules:
+# 	comparador_igual
+# End time: 15:48:12 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_mayor.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:12 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/comparador_mayor.sv 
+# -- Compiling module comparador_mayor
+# 
+# Top level modules:
+# 	comparador_mayor
+# End time: 15:48:13 on Jun 08,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_parametrizable.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:13 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_parametrizable.sv 
+# -- Compiling module contador_parametrizable
+# 
+# Top level modules:
+# 	contador_parametrizable
+# End time: 15:48:13 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/or_modulo.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:13 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/or_modulo.sv 
+# -- Compiling module or_modulo
+# 
+# Top level modules:
+# 	or_modulo
+# End time: 15:48:13 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:13 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/multiplicador.sv 
+# -- Compiling module multiplicador
+# 
+# Top level modules:
+# 	multiplicador
+# End time: 15:48:13 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/modulo.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:13 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/modulo.sv 
+# -- Compiling module modulo
+# 
+# Top level modules:
+# 	modulo
+# End time: 15:48:13 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/and_modulo.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:13 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/and_modulo.sv 
+# -- Compiling module and_modulo
+# 
+# Top level modules:
+# 	and_modulo
+# End time: 15:48:13 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/xor_modulo.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:13 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/xor_modulo.sv 
+# -- Compiling module xor_modulo
+# 
+# Top level modules:
+# 	xor_modulo
+# End time: 15:48:14 on Jun 08,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftR_modulo.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:14 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftR_modulo.sv 
+# -- Compiling module shiftR_modulo
+# 
+# Top level modules:
+# 	shiftR_modulo
+# End time: 15:48:14 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftL_modulo.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:14 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/shiftL_modulo.sv 
+# -- Compiling module shiftL_modulo
+# 
+# Top level modules:
+# 	shiftL_modulo
+# End time: 15:48:14 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/divisor.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:14 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/divisor.sv 
+# -- Compiling module divisor
+# ** Warning: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/divisor.sv(13): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	divisor
+# End time: 15:48:14 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Adder_Substractor.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:14 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Adder_Substractor.sv 
+# -- Compiling module Adder_Substractor
+# 
+# Top level modules:
+# 	Adder_Substractor
+# End time: 15:48:14 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/FullAdder.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:14 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/FullAdder.sv 
+# -- Compiling module FullAdder
+# 
+# Top level modules:
+# 	FullAdder
+# End time: 15:48:14 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Complement.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:15 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Complement.sv 
+# -- Compiling module Complement
+# 
+# Top level modules:
+# 	Complement
+# End time: 15:48:15 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:15 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/mux2.sv 
+# -- Compiling module mux2
+# 
+# Top level modules:
+# 	mux2
+# End time: 15:48:15 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopr.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:15 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopr.sv 
+# -- Compiling module flopr
+# 
+# Top level modules:
+# 	flopr
+# End time: 15:48:15 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/adder.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:15 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/adder.sv 
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# End time: 15:48:15 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopenr.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:15 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/flopenr.sv 
+# -- Compiling module flopenr
+# 
+# Top level modules:
+# 	flopenr
+# End time: 15:48:15 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/extend.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:15 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/extend.sv 
+# -- Compiling module extend
+# 
+# Top level modules:
+# 	extend
+# End time: 15:48:15 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:16 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/regfile.sv 
+# -- Compiling module regfile
+# 
+# Top level modules:
+# 	regfile
+# End time: 15:48:16 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/datapath.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:16 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/datapath.sv 
+# -- Compiling module datapath
+# 
+# Top level modules:
+# 	datapath
+# End time: 15:48:16 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ALU.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:16 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ALU.sv 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 15:48:16 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/condlogic.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:16 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/condlogic.sv 
+# -- Compiling module condlogic
+# -- Compiling module condcheck
+# 
+# Top level modules:
+# 	condlogic
+# End time: 15:48:16 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:16 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv 
+# -- Compiling module decoder
+# ** Warning: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/decoder.sv(46): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	decoder
+# End time: 15:48:16 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controller.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:16 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controller.sv 
+# -- Compiling module controller
+# 
+# Top level modules:
+# 	controller
+# End time: 15:48:17 on Jun 08,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/arm.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:17 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/arm.sv 
+# -- Compiling module arm
+# 
+# Top level modules:
+# 	arm
+# End time: 15:48:17 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/top.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:17 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/top.sv 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 15:48:17 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:17 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv 
+# -- Compiling module dmem
+# 
+# Top level modules:
+# 	dmem
+# End time: 15:48:17 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:17 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv 
+# -- Compiling module TopRam
+# 
+# Top level modules:
+# 	TopRam
+# End time: 15:48:17 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Counter.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:17 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Counter.sv 
+# -- Compiling module Counter
+# 
+# Top level modules:
+# 	Counter
+# End time: 15:48:17 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/asciiwriter.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:18 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/asciiwriter.sv 
+# -- Compiling module asciiwriter
+# 
+# Top level modules:
+# 	asciiwriter
+# End time: 15:48:18 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/imem.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:18 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/imem.sv 
+# -- Compiling module imem
+# 
+# Top level modules:
+# 	imem
+# End time: 15:48:18 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:48:18 on Jun 08,2021
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES" C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv 
+# -- Compiling module test_main
+# 
+# Top level modules:
+# 	test_main
+# End time: 15:48:18 on Jun 08,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  test_main
+# End time: 15:48:20 on Jun 08,2021, Elapsed time: 0:06:08
+# Errors: 0, Warnings: 13
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" test_main 
+# Start time: 15:48:20 on Jun 08,2021
+# Loading sv_std.std
+# Loading work.test_main
+# Loading work.main
+# Loading work.top
+# Loading work.arm
+# Loading work.controller
+# Loading work.decoder
+# Loading work.condlogic
+# Loading work.flopenr
+# Loading work.condcheck
+# Loading work.datapath
+# Loading work.mux2
+# Loading work.flopr
+# Loading work.adder
+# Loading work.regfile
+# Loading work.extend
+# Loading work.ALU
+# Loading work.Adder_Substractor
+# Loading work.Complement
+# Loading work.multiplicador
+# Loading work.divisor
+# Loading work.modulo
+# Loading work.and_modulo
+# Loading work.or_modulo
+# Loading work.xor_modulo
+# Loading work.shiftL_modulo
+# Loading work.shiftR_modulo
+# Loading work.imem
+# Loading work.dmem
+# Loading work.ROM
+# Loading altera_mf_ver.altsyncram
+# Loading work.TopRam
+# Loading work.RAM
+# Loading work.Counter
+# Loading work.clock25mh
+# Loading work.contador_parametrizable
+# Loading work.controlador_vga
+# Loading work.contador_horizontal
+# Loading work.comparador_igual
+# Loading work.contador_vertical
+# Loading work.sincronizador
+# Loading work.comparador_mayor
+# Loading work.asciiwriter
+# Loading work.FullAdder
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (32) for port 'address'. The port definition is at: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v(41).
+#    Time: 0 ps  Iteration: 0  Instance: /test_main/test/arm/dmem/memoria File: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv Line: 6
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (32) for port 'data'. The port definition is at: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /test_main/test/TopRam File: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv Line: 28
+# ** Warning: (vsim-3015) [PCDPC] - Port size (8) does not match connection size (32) for port 'wraddress'. The port definition is at: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv(5).
+#    Time: 0 ps  Iteration: 0  Instance: /test_main/test/TopRam File: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv Line: 28
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (8) for port 'data'. The port definition is at: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v(41).
+#    Time: 0 ps  Iteration: 0  Instance: /test_main/test/TopRam/RAM File: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv Line: 12
+# ** Warning: (vsim-3015) [PCDPC] - Port size (32) does not match connection size (8) for port 'q'. The port definition is at: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v(47).
+#    Time: 0 ps  Iteration: 0  Instance: /test_main/test/TopRam/RAM File: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv Line: 12
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'reset'. The port definition is at: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/contador_parametrizable.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /test_main/test/clock/divisor_clock File: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv Line: 5
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'reset'. The port definition is at: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controlador_vga.sv(2).
+#    Time: 0 ps  Iteration: 0  Instance: /test_main/test/controlador File: C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv Line: 37
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: alfab  Hostname: LAPTOP-NFRQC5UB  ProcessID: 38832
+#           Attempting to use alternate WLF file "./wlftive9ed".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftive9ed
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# End time: 15:53:43 on Jun 08,2021, Elapsed time: 0:05:23
+# Errors: 0, Warnings: 9
