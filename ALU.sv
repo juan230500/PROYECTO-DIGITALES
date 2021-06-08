@@ -1,7 +1,7 @@
 	module ALU #(parameter WIDTH = 32)( 
     input [WIDTH-1:0] A,
 	 input [WIDTH-1:0] B,
-	 input [1:0] sel,
+	 input [3:0] sel,
     output logic [WIDTH-1:0] Out,
 	 output logic [3:0] flags
 );
@@ -80,30 +80,43 @@
 	always_comb begin  
 	
       case (sel)  
-         4'b00,
-			4'b01 : begin
+         4'b0000,
+			4'b0001 : begin
 				Out = OutSumador;
 				C <= CSumador;
 				V <= VSumador;
-				
+					
 			end
-			4'b10 : begin
+			4'b0010 : begin
 				Out = OutAND;
 				C <= CAND;
 				V <= VAND;
 				
-				
 			end
-			4'b11 :begin
+			4'b0011 :begin
 				Out = OutOR;
 				C <= COR;
 				V <= VOR;
+			end
+			4'b0100 :begin
+				Out = OutXOR;
+				C <= CXOR;
+				V <= VXOR;
+			end
+			4'b0101 :begin
+				Out = ~A;
+				C <= 0;
+				V <= 0;
+			end
+			default: begin
+				Out = OutAND;
+				C <= CAND;
+				V <= VAND;
 			end
       endcase 
 	
 		N <= Out[WIDTH-1];
 		Z <= ~|Out;
-		
 		
    end
 	
