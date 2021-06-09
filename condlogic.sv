@@ -28,7 +28,7 @@ module condcheck(input logic [3:0] Cond,
 	assign ge = (neg == overflow);
 	always_comb
 		case(Cond)
-			4'b0000: CondEx = zero; // EQ
+			4'b0000: CondEx = zero;// EQ
 			4'b0001: CondEx = ~zero; // NE
 			4'b0010: CondEx = carry; // CS
 			4'b0011: CondEx = ~carry; // CC
