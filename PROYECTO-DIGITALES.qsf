@@ -157,7 +157,8 @@ set_global_assignment -name SYSTEMVERILOG_FILE TopRam.sv
 set_global_assignment -name SYSTEMVERILOG_FILE Counter.sv
 set_global_assignment -name QIP_FILE ROM.qip
 set_global_assignment -name QIP_FILE RAM.qip
-set_global_assignment -name QIP_FILE INST.qip
+set_location_assignment PIN_AD11 -to switch4
+set_location_assignment PIN_AF10 -to switch5
 set_global_assignment -name EDA_TEST_BENCH_FILE testbench.sv -section_id testbench
 set_global_assignment -name EDA_TEST_BENCH_FILE arm_test.sv -section_id arm_test
 set_global_assignment -name EDA_TEST_BENCH_FILE test_main.sv -section_id test_main

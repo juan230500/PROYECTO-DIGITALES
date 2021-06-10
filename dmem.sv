@@ -1,4 +1,4 @@
-module dmem(input logic clk, switch1, switch2, switch3,
+module dmem(input logic clk, switch1, switch2, switch3, switch4, switch5,
 		input logic [31:0] a,
 		output logic [31:0] rd);
 	//logic [31:0] RAM[63:0];
@@ -20,7 +20,15 @@ module dmem(input logic clk, switch1, switch2, switch3,
 						3'b111:  rd = 32'b11111111;
 					endcase
 				end
-					
+			32'd255: 
+				begin
+					case({switch4, switch5})
+							2'b00:  rd = 32'd0;
+							2'b01:  rd = 32'b01;
+							2'b10:  rd = 32'b10;
+							2'b11:  rd = 32'b11;
+					endcase
+				end			
 			default: rd = rd_aux;
 			endcase
 	end
