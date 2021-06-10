@@ -15,7 +15,7 @@ module controlador_vga(input clock_25,
 		contador_horizontal contador_horizontal (clock_25, reset, pixel_num, cambio_linea);
 		contador_vertical contador_vertical (cambio_linea, reset, linea_num);
 		sincronizador sincronizador(pixel_num, linea_num, hsync, vsync, n_blank);
-		asciiwriter ascii ( pixel_num, linea_num, char, red, green, blue);
+		asciiwriter ascii (clock_25, pixel_num, linea_num, char, red, green, blue);
 	endgenerate
 	
 endmodule 
