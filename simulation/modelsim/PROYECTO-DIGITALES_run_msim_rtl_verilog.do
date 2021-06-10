@@ -7,6 +7,7 @@ vmap work rtl_work
 
 vlog -vlog01compat -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/ROM.v}
 vlog -vlog01compat -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/RAM.v}
+vlog -vlog01compat -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/INST.v}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/main.sv}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/controlador_vga.sv}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/clock25mh.sv}
@@ -41,14 +42,14 @@ vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/arm.sv}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/top.sv}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/dmem.sv}
+vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/imem.sv}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/TopRam.sv}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/Counter.sv}
 vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/asciiwriter.sv}
-vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/imem.sv}
 
-vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/test_main.sv}
+vlog -sv -work work +incdir+C:/Users/alfab/Google\ Drive/I-SEM\ 2021/Taller\ De\ Diseno\ Digital/Proyecto/CPU/PROYECTO-DIGITALES {C:/Users/alfab/Google Drive/I-SEM 2021/Taller De Diseno Digital/Proyecto/CPU/PROYECTO-DIGITALES/testbench.sv}
 
-vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  test_main
+vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  testbench
 
 add wave *
 view structure

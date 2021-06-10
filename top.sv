@@ -5,6 +5,6 @@ module top(input logic clk, reset, switch1, switch2, switch3,
 	// instantiate processor and memories
 	arm arm(clk, reset, PC, Instr, MemWrite, DataAdr,
 		WriteData, ReadData);
-	imem imem(PC, Instr);
+	imem imem(clk, PC, Instr);
 	dmem dmem(clk, switch1, switch2, switch3, DataAdr, ReadData);
 endmodule 
